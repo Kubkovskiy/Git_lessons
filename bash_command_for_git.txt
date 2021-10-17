@@ -4,3 +4,4 @@ git log : history of commits
   logs flags: git log -2 : show 2 last commits
                       -p : show what exactly changed
 
+git diff --staged : difference between last commit and now
