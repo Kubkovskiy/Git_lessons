@@ -1,2 +1,6 @@
-echo - команда, заменила данные на эту строку
-commit - m - create commit. -m for adding discriptions
+echo : команда, заменила данные на эту строку
+git commit - m : create commit. -m for adding discriptions
+git log : history of commits
+  logs flags: git log -2 : show 2 last commits
+                      -p : show what exactly changed
+
