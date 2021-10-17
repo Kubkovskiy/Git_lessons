@@ -1,1 +1,2 @@
 echo - команда, заменила данные на эту строку
+commit - m - create commit. -m for adding discriptions
