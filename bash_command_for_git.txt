@@ -5,3 +5,7 @@ git log : history of commits
                       -p : show what exactly changed
 
 git diff --staged : difference between last commit and now
+git remote -v : show which remote repository i use
+
+
+~/.ssh/ : dir for my ssh sertifications 
