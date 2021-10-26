@@ -5,7 +5,11 @@ git log : history of commits
                       -p : show what exactly changed
 
 git diff --staged : difference between last commit and now
+
+
 git remote -v : show which remote repository i use
+git remote add origin <url or ssl>
+git push -v origin master : push into remote git
 for change method or url:
 	git remote set-url origin <url or ssl>
 
