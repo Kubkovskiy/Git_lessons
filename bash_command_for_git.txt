@@ -6,6 +6,7 @@ git log : history of commits
 
 git diff --staged : difference between last commit and now
 git remote -v : show which remote repository i use
-
+for change method or url:
+	git remote set-url origin <url or ssl>
 
 ~/.ssh/ : dir for my ssh sertifications 
